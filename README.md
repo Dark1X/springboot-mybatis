@@ -1,4 +1,4 @@
-## 整合MyBatis
+## SpringBoot整合MyBatis
 
 ```xml
 		<dependency>
